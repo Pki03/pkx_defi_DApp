@@ -1,4 +1,5 @@
 //regards to angela who taught it
+//first create the dfx in ubuntu then navigate to ic projects in vsc then you can start by npm install then dfx start dfx deploy npm start
 
 import { dbank_backend } from "../../declarations/dbank_backend";
 //when we refresh then update function is called
