@@ -1,3 +1,5 @@
+//regards to angela who taught it
+
 import { dbank_backend } from "../../declarations/dbank_backend";
 //when we refresh then update function is called
 window.addEventListener("load", async function() {
